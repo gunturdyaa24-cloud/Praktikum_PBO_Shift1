@@ -1,0 +1,11 @@
+package tugasp2praktikum;
+
+public class manipulasiString {
+    public static void main(String[] args) {
+        String a = "Saya Belajar Java";
+        String b = "Saya Belajar Java";
+        
+        System.out.println("String a (lowercase): " + a.toLowerCase());
+        System.out.println("String b (uppercase): " + b.toUpperCase());
+    }
+}
